@@ -17,14 +17,17 @@ social:
   - title: twitter
     url: https://twitter.com/Ayushkumaravk
   - title: facebook
-    url:
+    url: https://facebook.com/Ayushkumaravk
   - title: stack-overflow
     url: http://stackoverflow.com/users/Ayushkumaravk
   - title: bitbucket
     url: http://bitbucket.org/Ayushkumaravk
   - title: github
     url: https://github.com/Ayushkumaravk
-
+  - title: Medium
+    url: https://medium.com/@Ayushkumaravk
+  - title: Tradingview
+    url: https://in.tradingview.com/u/ayushkumaravk
 # Build settings
 markdown: kramdown
 permalink: pretty
